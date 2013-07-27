@@ -35,6 +35,7 @@ pages_list :
    url : /tags.html
  - title : Categories
    url : /categories.html
+   hide : true
  - title : Archive
    url : /archive.html
  - title : Pages
