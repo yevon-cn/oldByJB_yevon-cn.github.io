@@ -26,7 +26,23 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://yevon-cn.github.io
+production_url : http://yevon.tk
+
+pages_list :
+ - title : 首页
+   url : /index.html
+ - title : Tags
+   url : /tags.html
+ - title : Categories
+   url : /categories.html
+ - title : Archive
+   url : /archive.html
+ - title : Pages
+   url : /pages.html
+ - title : About ME
+   url : /about.html
+   hide : true
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
