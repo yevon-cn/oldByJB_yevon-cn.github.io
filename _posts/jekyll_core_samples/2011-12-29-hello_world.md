@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: Hello World!
+categories : ["GitHub建站"]
 tagline: Supporting tagline
-tags: jekyll
+tags: ["jekyll"]
 ---
 {% include JB/setup %}
 

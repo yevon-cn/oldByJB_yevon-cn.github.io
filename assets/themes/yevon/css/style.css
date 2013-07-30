@@ -403,3 +403,9 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+
+/* add  by  yevon-cn */
+.content blockquote p{
+  padding-bottom: 0;
+}

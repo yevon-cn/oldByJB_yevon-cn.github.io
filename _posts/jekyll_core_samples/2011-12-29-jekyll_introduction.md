@@ -1,8 +1,8 @@
 ---
 layout: post
-category : 
-tagline: "small title"
-tags : [jekyll]
+categories : ["GitHub建站"]
+tagline: "Supporting tagline"
+tags : ["jekyll"]
 ---
 {% include JB/setup %}
 
@@ -410,13 +410,3 @@ Jekyll-bootstrap is intended to provide helper methods and strategies aimed at m
 
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }}) 
 or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
-
-
-## Test
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}

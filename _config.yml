@@ -30,16 +30,17 @@ production_url : http://yevon.tk
 
 pages_list :
  - title : 首页
-   url : /index.html
- - title : Tags
-   url : /tags.html
- - title : Categories
-   url : /categories.html
-   hide : true
+   url : /
+#index.html
  - title : Archive
    url : /archive.html
+ - title : Categories
+   url : /categories.html
+ - title : Tags
+   url : /tags.html
  - title : Pages
    url : /pages.html
+   hide : true
  - title : About ME
    url : /about.html
    hide : true
