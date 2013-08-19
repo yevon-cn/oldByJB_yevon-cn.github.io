@@ -28,6 +28,7 @@ published: true
 ##部署
 ###一、首先要到Google去下载对应的编译器。
 >地址如下：   <https://code.google.com/p/go/downloads/list>
+
 1. 这里我建议大家下载： go1.1.windows-386.zip  不要下载安装版，手动配置一下,很方便。
 2. 解压缩后，把文件夹重新命名为 go—原因很简单，简单点方便看的爽。我是放在 E:/go这个文件夹中的
 3. 添加用户变量和系统变量。其中用户变量，添加变量名“GOROOT” ，变量值”E:/go”。
